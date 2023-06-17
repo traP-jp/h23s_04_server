@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"log"
 	"net/http"
 
@@ -51,6 +52,7 @@ func handleWebSocket(w http.ResponseWriter, r *http.Request) {
 
 func main() {
 	http.HandleFunc("/websocket", handleWebSocket)
+	fmt.Print("Hello")
 
 	// サーバーを起動します
 	if err := http.ListenAndServe(":8080", nil); err != nil {
