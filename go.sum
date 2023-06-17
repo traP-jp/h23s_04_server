@@ -1,0 +1,4 @@
+github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWmnc=
+github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/trevex/golem v0.0.0-20170330051645-8705b20d71c3 h1:qzZxr6ot3/RbBpR63oNpVtY/ffGOkKE2Ook2hO/tzik=
+github.com/trevex/golem v0.0.0-20170330051645-8705b20d71c3/go.mod h1:eUfC5zcoyD35XmLV2BimmWYAHzAXRP1Fu5m3dJhRVVk=
